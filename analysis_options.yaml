@@ -1,0 +1,19 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  errors:
+    deprecated_member_use: ignore
+
+linter:
+  rules:
+    public_member_api_docs: true
+    prefer_single_quotes: true
+    sort_child_properties_last: true
+    use_super_parameters: true
+    always_declare_return_types: true
+    avoid_print: true
+    prefer_const_constructors: true
+    prefer_const_declarations: true
+    prefer_final_fields: true
+    prefer_final_locals: true
+    unnecessary_lambdas: true
