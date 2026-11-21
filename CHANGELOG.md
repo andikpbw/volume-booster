@@ -1,3 +1,8 @@
+## 1.0.1
+
+* Refined animated live preview SVG layout (`doc/showcase_banner.svg` and `doc/spectrum_vu_preview.svg`) to eliminate text overlapping across card headers, 5-band equalizer frequency/dB readouts, and theme preset pills.
+* Added `#1 Flutter Volume Booster Library` gold medal banner (`doc/gold_medal_banner.png`) to `README.md`.
+
 ## 1.0.0
 
 * Initial stable release of `volume_booster`.

@@ -1,5 +1,11 @@
 # volume_booster
 
+<p align="center">
+  <a href="https://pub.dev/packages/volume_booster">
+    <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/gold_medal_banner.png" alt="#1 Flutter Volume Booster Library — 160/160 Pub Points • Zero Dependencies" width="100%" />
+  </a>
+</p>
+
 [![pub package](https://img.shields.io/pub/v/volume_booster.svg)](https://pub.dev/packages/volume_booster)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Flutter](https://img.shields.io/badge/Flutter-3.24%2B-02569B?logo=flutter)](https://flutter.dev)
@@ -11,7 +17,7 @@ A modern, super eye-catching, and customizable Flutter volume booster and audio 
 > 🌟 Supported & Powered by [Humanize AI](https://humanize.id)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/showcase_banner.svg?v=1.0.0" alt="volume_booster interactive animated UI showcase" width="100%" />
+  <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/showcase_banner.svg?v=1.0.1" alt="volume_booster interactive animated UI showcase" width="100%" />
 </p>
 
 ---
@@ -20,12 +26,12 @@ A modern, super eye-catching, and customizable Flutter volume booster and audio 
 
 | 1. 3D Rotary Overdrive Dial (`VolumeBoosterDial`) | 2. 5-Band Graphic Equalizer & DSP (`VolumeEqualizerWidget`) |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/rotary_dial_preview.svg?v=1.0.0" alt="3D Rotary Overdrive Dial Preview" width="100%" /> | <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/equalizer_dsp_preview.svg?v=1.0.0" alt="5-Band Graphic Equalizer & Bass DSP Preview" width="100%" /> |
+| <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/rotary_dial_preview.svg?v=1.0.1" alt="3D Rotary Overdrive Dial Preview" width="100%" /> | <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/equalizer_dsp_preview.svg?v=1.0.1" alt="5-Band Graphic Equalizer & Bass DSP Preview" width="100%" /> |
 | Segmented 3-zone LED ring (`Safe 0–100%`, `Turbo 101–155%`, `Overdrive 156–200%+`), pulsing harmonic wave rings, live dB badge, and quick-jump presets. | Real-time cubic-Bezier frequency response curve across `60Hz` – `14kHz`, preset chips, Bass Boost, 3D Virtualizer, and Brickwall Safety Limiter. |
 
 | 3. Dual-Zone Slider & 6 Themes (`VolumeBoosterSlider`) | 4. Real-Time Spectrum & Stereo VU (`VolumeSpectrumVisualizer`) |
 | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/slider_themes_preview.svg?v=1.0.0" alt="Dual-Zone Overdrive Slider & 6 Themes Preview" width="100%" /> | <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/spectrum_vu_preview.svg?v=1.0.0" alt="Real-Time Spectrum Analyzer & Stereo VU Meter Preview" width="100%" /> |
+| <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/slider_themes_preview.svg?v=1.0.1" alt="Dual-Zone Overdrive Slider & 6 Themes Preview" width="100%" /> | <img src="https://raw.githubusercontent.com/andikpbw/volume-booster/main/doc/spectrum_vu_preview.svg?v=1.0.1" alt="Real-Time Spectrum Analyzer & Stereo VU Meter Preview" width="100%" /> |
 | Clear `100% (0 dB)` unity gain divider separating standard hardware volume from software boost overdrive across 6 built-in theme presets. | 20-band frequency spectrum analyzer (`LED Bars`, `Harmonic Wave`, `Dual Mirror`) paired with Stereo L/R peak-hold VU meters and `CLIP` indicators. |
 
 ---
@@ -67,7 +73,7 @@ Add `volume_booster` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  volume_booster: ^1.0.0
+  volume_booster: ^1.0.1
 ```
 
 Or install via the Flutter CLI:

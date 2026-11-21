@@ -1,6 +1,6 @@
 name: volume_booster
 description: A modern Flutter volume booster and audio amplifier library featuring rotary boost dials, dual-zone overdrive sliders, 5-band EQ, and real-time VU meters.
-version: 1.0.0
+version: 1.0.1
 homepage: https://humanize.id
 repository: https://github.com/andikpbw/volume-booster
 issue_tracker: https://github.com/andikpbw/volume-booster/issues
